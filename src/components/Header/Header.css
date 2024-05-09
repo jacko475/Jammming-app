@@ -1,0 +1,14 @@
+header {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 40px;
+	width: 100vw;
+	padding: 40px 0;
+	background-color: rgb(163, 163, 163);
+	border-bottom: 4px solid #8b8b8b;
+}
+
+.highlight {
+    color: #646cff;
+}

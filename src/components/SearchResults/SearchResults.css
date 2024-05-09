@@ -1,0 +1,32 @@
+.searchResultsBox {
+    background-color: rgb(77, 77, 77);
+    max-height: 950px;
+    width: 40%;
+    /* margin-top: 100px; */
+    padding: 2.27rem 1.16rem;
+    box-shadow: 0 4px 2px 2px #000000;
+    overflow-y: scroll;
+}
+
+.Playlist {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-y: scroll;
+    width: 37%;
+    max-height: 950px;
+    padding: 2.27rem 1.16rem;
+    background-color: rgba(1, 12, 63, 0.7);
+    box-shadow: 0 4px 2px 2px #000000;
+  }
+
+.resultsHeader {
+    padding: 30px;
+    margin-top: 0;
+}
+
+.resultsList {
+    list-style-type: none;
+    padding: 30px;
+    margin: 0;
+}
